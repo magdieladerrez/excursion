@@ -4,10 +4,33 @@
 }
 h1{
     color:white;
-    font-size: 60px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#applink{
+.applink{
     color: aquamarine;
     font-size: 16px;
-    forced-color-adjust: aquamarine;
+    margin-bottom: 500px;
+    padding-bottom: 100px;
+}
+#heading2{
+    color: white;
+    font-size: 42px;
+    font-weight: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#paragragh2{
+    color: grey;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 25px;
+}
+#icon{
+    margin-top: 25px;
+}
+
+#footerp{
+    color: white;
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
